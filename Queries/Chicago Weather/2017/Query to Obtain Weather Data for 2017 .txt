@@ -1,0 +1,1 @@
+SELECT * FROM `bigquery-public-data.noaa_gsod.gsod2017` where stn = '725340' LIMIT 1000
